@@ -1,17 +1,18 @@
 
 # rsschool #
-================================================
+************************************************
 
 ## AKSANA VIATKINA ##
-------------------------------------------------
+************************************************
 
 ### Contacts ###
-*Location: Belarus
-*Phone number: 375296626300
-*email: sanav3418@gmail.com
-    
+* Location: Belarus
 
---------------------------------------------------
+* Phone number: 375296626300
+
+* email: sanav3418@gmail.com
+    
+************************************************
 
 ### About me ###
 
@@ -19,8 +20,8 @@
     - International Humanitarian Economic Institut
 
 + Courses
-    - HTML.CSS in [ Belhard Academy ] ( https://belhard.academy/ visit site )
-    - Frontend development for beginner in [ Stepic courses ] ( https://stepik.org/learn visit site )
+    - HTML.CSS in [Belhard academy]( https://belhard.com visit site )
+    - Frontend development for beginner in [ Stepic courses ] ( https://stepik.org visit site )
 
 
 + Skills
