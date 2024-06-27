@@ -1,20 +1,21 @@
 
-# rsschool
+#rsschool
 ================================================
 
-## AKSANA VIATKINA
+##AKSANA VIATKINA
 ------------------------------------------------
 
-### Contacts
-+Location: Belarus
+###Contacts
+    +Location: Belarus
 
-+Phone number: 375296626300
+    +Phone number: 375296626300
 
-+email: sanav3418@gmail.com
+    +email: sanav3418@gmail.com
+    
 
 --------------------------------------------------
 
-### About me
+###About me
 
 +Aducation
     -International Humanitarian Economic Institut
