@@ -1,11 +1,10 @@
 
-# rsschool #
-************************************************
+## rsschool ##
 
-## AKSANA VIATKINA ##
-************************************************
+### AKSANA VIATKINA ###
+*************************************************
 
-### Contacts ###
+#### Contacts ####
 * Location: Belarus
 
 * Phone number: 375296626300
@@ -14,7 +13,7 @@
     
 ************************************************
 
-### About me ###
+#### About me ####
 
 + Aducation
     - International Humanitarian Economic Institute
@@ -40,6 +39,28 @@
     - I have no experience in Frontend development, but my desire to become a good specialist in this sphere is very great
 
 ********************************************************************************
+
+#### Code Example ####
+
+```
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Фреймы</title>
+</head>
+
+<frameset rows="15%,80%,5%">
+<frame src="menu.html">
+<frameset cols="20%, 80%">
+<frame src="main.html">
+<frame src="content.html" name="here">
+</frameset>
+<frame src="footer.html">
+</frameset>
+<noframes></noframes>
+</html>
+```
 
 
 
