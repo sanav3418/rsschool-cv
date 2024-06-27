@@ -32,7 +32,7 @@
 
 + **Experience**
     - Our Family has small business (wood furniture production)
-    - Also I have a long hostory of work as a florist
+    - Also I have a long period of work as a florist
     - I have no experience in Frontend development, but my desire to become a good specialist in this sphere is very great
 
 ********************************************************************************
