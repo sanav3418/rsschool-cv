@@ -17,11 +17,11 @@
 ### About me ###
 
 + Aducation
-    - International Humanitarian Economic Institut
+    - International Humanitarian Economic Institute
 
 + Courses
-    - HTML.CSS in [Belhard academy]( https://belhard.com visit site )
-    - Frontend development for beginner in [ Stepic courses ] ( https://stepik.org visit site )
+    - HTML.CSS in [Belhard academy](https://belhard.com "visit site" )
+    - Frontend development for beginner in [Stepic courses](https://stepik.org "visit site")
 
 
 + Skills
