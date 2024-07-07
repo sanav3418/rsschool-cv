@@ -1,0 +1,134 @@
+@font-face { 
+    font-family: "Roboto", sans-serif;
+ }
+
+ * {
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+  .nav-link {
+    transition: 0.3s;
+  }
+  .section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+  }
+  .section-item a:hover {
+    color: #4d2323;
+  }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    width: 50%;
+  }
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #B22222;
+  }
+  header {
+    background-color: #829985;
+  }
+  .profile-title {
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  .profile-image {
+    width: 50%;
+    border-radius: 180px;
+    border: 5px solid grey;
+    box-shadow: 0 0 7px #0075
+  }
+  
+  .section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #c9c97d;
+    text-decoration: underline;
+    text-decoration-color:#758878;
+  }
+  .link {
+    text-decoration: none;
+    color: #c9c97d;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #5d7260;
+  }
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
+  footer {
+    background-color: #829985;
+    
+  }
+  .downmenu ul{ padding-left:0;
+    text-align:center}
+  .downmenu li {
+    display: inline-block;
+    color: white;
+    font-size: 1.7em;
+    color:#B22222;
+  }
+  .downmenu img {
+  border: double 3px white;
+	width: 120px;
+	height: 120px;
+	margin: 10px;
+	margin-bottom: 0;
+}
+  .downmenu a{
+    color:#B22222;
+  }
